@@ -1,2 +1,2 @@
 # Python-Learning
-From Basics to Pro Level
+Learning Python from scratch
